@@ -1,0 +1,13 @@
+[package]
+name = "war3_maps_tools"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+mpq = "0.7.0"
+encoding = "0.2.33"
+lazy_static = "1.4.0"
+image-blp = "1.0.1"
+image = "0.24.5"
