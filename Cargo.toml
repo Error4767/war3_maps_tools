@@ -6,8 +6,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-mpq = "0.7.0"
+mpq = "0.8.1"
 encoding = "0.2.33"
-lazy_static = "1.4.0"
-image-blp = "1.0.1"
+lazy_static = "1.5.0"
+image-blp = "1.2.0"
 image = "0.24.5"
